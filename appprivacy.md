@@ -26,7 +26,9 @@ In detail, these are the features I may provide:
 ## Collection and use of your data
 Some of my apps require personal data like usernames and passwords. I am using primarily the oAuth standard for these apps. The oAuth standard requires you, the user, to explicitly allow my apps to access your personal data. At any time, you will be able to revoke access to my apps via the services (like social networks). I am using tokens (encoded and securely stored) while trying to avoid storing your username and password whenever possible. Only my apps have access to this tokens and the corresponding user data.
 
-Some of my apps collect additional information about the device you are using. These data are only used for analytic purposes like usage of app features and error logging. With this data, we are able to improve my apps. Some apps may use these data to display ads.
+Some of my apps collect additional information about the device you are using. These data are only used for analytic purposes like usage of app features and error logging. With this data, I am able to improve my apps. Unless stated otherwise, I use [Sentry.io](https://sentry.io) for collecting these data. Please refer to [their data and security documents](https://docs.sentry.io/security-legal-pii/security/terms/) for further information.
+
+Some apps may collect additional data to display ads. These apps wll probably have their own privacy policy.
 
 If you share information via social network or any other service from and about my apps, I cannot control the actions of others with whom you may choose to share. Also, I cannot guarantee that the content you post will not be viewed by others outside your networks.
 

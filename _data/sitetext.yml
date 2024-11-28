@@ -153,9 +153,9 @@ In my current role, I also develop software, using a similar technology stack. F
     social:
       - url: https://dotnet.social/@MSicc
         icon: "fab fa-mastodon"
-      - url: https://bsky.app/profile/msicc.bsky.social
+      - url: https://bsky.app/profile/msicc.net
         icon: "fab fa-bluesky"
-      - url: https://linkedin.com/company/msiccdev
+      - url: https://linkedin.com/in/msicc
         icon: "fab fa-linkedin-in"
       - url: https://github.com/msiccdev
         icon: "fab fa-github"

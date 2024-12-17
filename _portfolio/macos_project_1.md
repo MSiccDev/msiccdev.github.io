@@ -15,9 +15,9 @@ Have you transitioned from traditional social networks like Instagram to the Fed
 
 Looking to revisit and share some of your past highlights and memories? TimeTraverseHub makes it easy! 
 
-[Join the beta](https://testflight.apple.com/join/0GWIITBi){:target="_blank"}
+[Learn more](https://msiccdev.github.io/TimeTraverseHub/){:target="_blank"}
 
 {:.list-inline} 
-- State: Upcoming Beta on TestFlight
+- State: Beta on TestFlight
 - Available on: macOS
 

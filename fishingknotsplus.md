@@ -1,3 +1,3 @@
 ---
-redirect_to: - /FishingKnotsPlus
+redirect_to: - https://msiccdev.net/FishingKnotsPlus/
 ---

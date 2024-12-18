@@ -1,3 +1,3 @@
 ---
-redirect_to: - /TwistReader
+redirect_to: - https://msiccdev.net/TwistReader/
 ---

@@ -1,3 +1,3 @@
 ---
-redirect_to: - /TimeTraverseHub
+redirect_to: - https://msiccdev.net/TimeTraverseHub/
 ---

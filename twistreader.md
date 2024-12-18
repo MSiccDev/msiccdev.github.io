@@ -1,3 +1,6 @@
 ---
-redirect_to: - https://msiccdev.net/TwistReader/
+layout: redirected
+sitemap: false
+permalink: /twistreader/
+redirect_to:  /TwistReader/
 ---

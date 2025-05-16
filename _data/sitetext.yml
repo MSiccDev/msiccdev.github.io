@@ -151,7 +151,7 @@ footer:
   privacy_for_apps: "Application Privacy"  
   imprint: "Imprint"  
   social:
-    - url: https://techhub.social/@MSicc
+    - url: https://techhub.social/@msicc
       icon: "fab fa-mastodon"
     - url: https://bsky.app/profile/msicc.net
       icon: "fab fa-bluesky"

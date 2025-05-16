@@ -146,21 +146,22 @@ In my current role, I also develop software, using a similar technology stack. F
   #   subject: "Contact Form Submission"
   #   submit: "Send Message"
 
-  footer:
-    privacy: "Privacy"
-    privacy_for_apps: "Application Privacy"  
-    imprint: "Imprint"  
-    social:
-      - url: https://dotnet.social/@MSicc
-        icon: "fab fa-mastodon"
-      - url: https://bsky.app/profile/msicc.net
-        icon: "fab fa-bluesky"
-      - url: https://linkedin.com/in/msicc
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/msiccdev
-        icon: "fab fa-github"
-      - url: mailto:info@msiccdev.net
-        icon: "fas fa-envelope"
+footer:
+  privacy: "Privacy"
+  privacy_for_apps: "Application Privacy"  
+  imprint: "Imprint"  
+  social:
+    - url: https://techhub.social/@MSicc
+      icon: "fab fa-mastodon"
+    - url: https://bsky.app/profile/msicc.net
+      icon: "fab fa-bluesky"
+    - url: https://linkedin.com/in/msicc
+      icon: "fab fa-linkedin-in"
+    - url: https://github.com/msiccdev
+      icon: "fab fa-github"
+    - url: mailto:info@msiccdev.net
+      icon: "fas fa-envelope"
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:
